@@ -25,7 +25,7 @@ downfallogu@github
  Terminal  :  Alacritty
       CPU  :  I7
     Alias  :  Downfall
-     Orgs  :  Bleed
+     Orgs  :  BleedBot
 
   
 ```
