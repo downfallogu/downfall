@@ -11,7 +11,7 @@
 > neofetch
 
 ```
-<img src="https://i.pinimg.com/originals/3c/fa/ea/3cfaeaf2e9e67fb33465515e7cd183d1.gif" align="left" src="https://i.pinimg.com/originals/3c/fa/ea/3cfaeaf2e9e67fb33465515e7cd183d1.gif" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://cdn.discordapp.com/attachments/755818851689824331/960571903771291658/unknown.png" align="left" src="https://cdn.discordapp.com/attachments/755818851689824331/960571903771291658/unknown.png" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
