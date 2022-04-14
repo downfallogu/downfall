@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm downfall</b><br>
-  <a href="https://t.me/btcswap">Tele</a> |
+  <a href="https://t.me/downfallogu">Tele</a> |
   <a href="https://ogusers.com/downfall">OGU</a> |
   <a href="https://bleed.monster/">Web</a> |
 
